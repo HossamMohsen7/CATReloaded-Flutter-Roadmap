@@ -91,6 +91,7 @@ Advanced topics in Flutter and also programming in general which include data st
  - UI and Unit Testing
  - Design Patterns
  - Clean Code
+ - Databases
  - Memory Management
 
 **Resources**:
