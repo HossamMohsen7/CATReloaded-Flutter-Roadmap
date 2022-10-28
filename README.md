@@ -37,6 +37,7 @@ Dart Programming from start to end with regular console projects.
    - Abstraction and Abstract Classes
    - Inheritance and Interfaces
 - Enums
+- Naming Conventions
 - Mixins
 - Generics
 - Futures, Streams and Generators
