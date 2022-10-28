@@ -2,17 +2,17 @@
 This roadmap is divided into 3 levels which makes it more organized and easy to study. The levels are:
 
  - **Beginner**:
- - Dart Topics
- - From 3 to 4 weeks.
- - Final Project to proceed to next level
+    - Dart Topics
+    - From 3 to 4 weeks.
+    - Final Project to proceed to next level
  - **Intermediate**:
- - Flutter Topics
- - Around 3 months.
- - Final Project to proceed to next level
+    - Flutter Topics
+    - Around 3 months.
+    - Final Project to proceed to next level
  - **Advanced**:
- - Advanced Flutter and Programming Topics
- - To infinity and beyond.
- - Regular Projects
+    - Advanced Flutter and Programming Topics
+    - To infinity and beyond.
+    - Regular Projects
 ---
 ### Beginner:
 Dart Programming from start to end with regular console projects.
