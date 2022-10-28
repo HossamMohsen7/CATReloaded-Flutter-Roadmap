@@ -20,6 +20,7 @@ Dart Programming from start to end with regular console projects.
 
 **Topics**:
  - Introduction and installation
+ - Git and Github **Very Important!**
  - Data types, variables and printing
  - Operators
  - Control Statements
